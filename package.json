@@ -1,0 +1,21 @@
+{
+  "name": "Tareas_CRUD",
+  "version": "1.0.0",
+  "description": "Ejercicio de lectura de datos y consultas seguras con PostgreSQL y Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "postgresql",
+    "node",
+    "sql",
+    "seguridad"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "pg": "^8.11.3"
+  }
+}
